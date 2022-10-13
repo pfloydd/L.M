@@ -7,31 +7,29 @@
     <title>Act. 7</title>
 </head>
 <body>
-    <font face="Arial">
-        <table border="1" cellpadding="10" cellspacing="2">
-            <tr><td bgcolor="DEEADC">
-            <p align="left">Rellenar</p>
-            <input type="radio" name="ingl">Inglés<br>
-            <input type="radio" name="aleman">Alemán<br>
-            <input type="radio" name="frances">Francés<br>
-            <select name="seleccion">
-                <option value="USB">USB</option>
-                <option value="VGA">VGA</option>
-                <option value="DVI">DVI</option>
-            </select>
-            <p>Nombre</p><input type="text" name="nombre">
-            <p>Apellidos</p><input type="text" name="nombre">
-            </td>
-            </tr>
-        </table>
+<form>
+    <fieldset>
+        <legend>Rellenar</legend>
+        <input type="radio" name="idiomas" value="ingles">Inglés<br>
+        <input type="radio" name="idiomas" value="aleman">Alemán<br>
+        <input type="radio" name="idiomas" value="frances">Francés<br>
         <br>
-        <table border="1" cellpadding="10" cellspacing="2">
-            <tr><td bgcolor="DEEADC">
-                <p align="left">Indique sus preferencias por favor</p>
-
-            </td>
-            </tr>
-            </table>
-    </font>
+        <select name="selector1">
+            <option value="1">USB</option>
+            <option value="2">VGA</option>
+            <option value="3">HDMI</option>
+        </select>
+        Nombre <input type="text" name="nombre"><br>
+        Apellidos <input type="text" name="apellidos">
+    </fieldset>
+        <legend>Indique sus preferencias por favor</legend>
+        <select name="sexo" multiple>
+            <option value="mujer">Mujer</option>
+            <option value="hombre">Hombre</option>
+        </select>
+        <input type="checkbox" name="sexo2" value="mujer">Mujer<br>
+        <input type="checkbox" name="sexo2" value="hombre">Hombre<br>
+        Elija una fecha: <input type="date">
+</form>
 </body>
 </html>
