@@ -1,0 +1,16 @@
+.datos, .principal {
+    float: left;
+}
+
+.datos {
+    width: 27%;
+}
+
+.principal {
+    width: 77%;
+}
+
+#columna1{
+    float: left;
+    width: 33%;
+}
