@@ -1,14 +1,16 @@
-.datos {
+.izq, .dere{
     float: left;
-    width: 27%;
 }
 
-.principal {
-    float: left;
-    width: 77%;
+.izq {
+    width: 25%;
 }
 
-#columna1{
+.dere{
+    width: 75%;
+}
+
+.columnas{
     float: left;
     width: 33%;
 }
