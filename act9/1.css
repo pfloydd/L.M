@@ -1,16 +1,19 @@
-.izq, .dere{
-    float: left;
+h1{
+	text-align: center;
 }
 
+
 .izq {
+    float: left;
     width: 25%;
 }
 
 .dere{
+    float: left;
     width: 75%;
 }
 
-.columnas{
+.columnas > p{
     float: left;
     width: 33%;
 }
