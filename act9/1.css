@@ -1,12 +1,10 @@
-.datos, .principal {
-    float: left;
-}
-
 .datos {
+    float: left;
     width: 27%;
 }
 
 .principal {
+    float: left;
     width: 77%;
 }
 
