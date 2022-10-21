@@ -9,37 +9,44 @@ ul {
 }
 
 body{
-    background-color: cadetblue;
+    background-color: #405166;
 }
 
 .nav{
     display: flex;
-    column-gap: .8rem;
+    column-gap: 2rem;
     padding: 10px 15px;
     background-color: white;
 }
 
 main{
     display: grid;
-    grid-template-columns: 1fr .5fr;
+    grid-template-columns: 1fr .4fr;
 }
 
 .rosa{
     background-color: crimson;
     color: white;
     text-align: center;
-    padding: 5rem;
+    padding: 3rem;
 }
 
 .izq{
     background-color: white;
 }
 
+.izq > p{
+    text-align: justify;
+}
+
 .derecha{
     padding: 1rem;
-    background-color: bisque;
-    text-decoration: underline;
+    background-color: #00d8c9;
     height: 25vh;
+}
+
+.derecha > p{
+    text-decoration: underline;
 }
 
 .img{
