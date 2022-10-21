@@ -8,12 +8,14 @@ h1{
     width: 25%;
 }
 
-.dere{
+.dere > p{
     float: left;
     width: 75%;
+    text-align: justify;
 }
 
 .columnas > p{
     float: left;
     width: 33%;
+    text-align: justify;
 }
