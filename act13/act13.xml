@@ -11,6 +11,7 @@
         </destinatario>
         <texto>
             <parrafo>Hola, ¿qué tal?</parrafo>
+            <parrafo></parrafo>
         </texto>
     </mensaje>
 </mensajes>
