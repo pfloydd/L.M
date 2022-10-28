@@ -22,34 +22,36 @@
             <provincia>Madrid</provincia>
         </cliente>
         <datos>
-            <producto>
-                <ref>MII93000F/8</ref>
-                <descrip>Micro Pentium IV 3000Mhz FB800</descrip>
-                <cant>1</cant>
-                <precio>230 euros</precio>
-                <importe>266,80 euros</importe>
-            </producto>
-            <producto>
-                <ref>MB8QDIP4</ref>
-                <descrip>Placa base QDI P4</descrip>
-                <cant>1</cant>
-                <precio>180 euros</precio>
-                <importe>208,80 euros</importe>
-            </producto>
-            <producto>
-                <ref>MEDD512M32</ref>
-                <descrip>DIMM DDR 512MB 3200</descrip>
-                <cant>2</cant>
-                <precio>40 euros</precio>
-                <importe>92,80 euros</importe>
-            </producto>
-            <producto>
-                <ref>HD250GSA7</ref>
-                <descrip>Disco duro 250GB S-ATA 7200</descrip>
-                <cant>4</cant>
-                <precio>120 euros</precio>
-                <importe>556,80 euros</importe>
-            </producto>
+            <productos>
+                <producto>
+                    <ref>MII93000F/8</ref>
+                    <descrip>Micro Pentium IV 3000Mhz FB800</descrip>
+                    <cant>1</cant>
+                    <precio>230 euros</precio>
+                    <importe>266,80 euros</importe>
+                </producto>
+                <producto>
+                    <ref>MB8QDIP4</ref>
+                    <descrip>Placa base QDI P4</descrip>
+                    <cant>1</cant>
+                    <precio>180 euros</precio>
+                    <importe>208,80 euros</importe>
+                </producto>
+                <producto>
+                    <ref>MEDD512M32</ref>
+                    <descrip>DIMM DDR 512MB 3200</descrip>
+                    <cant>2</cant>
+                    <precio>40 euros</precio>
+                    <importe>92,80 euros</importe>
+                </producto>
+                <producto>
+                    <ref>HD250GSA7</ref>
+                    <descrip>Disco duro 250GB S-ATA 7200</descrip>
+                    <cant>4</cant>
+                    <precio>120 euros</precio>
+                    <importe>556,80 euros</importe>
+                </producto>
+            </productos> 
             <precios>
                 <base>970 euros</base>
                 <iva>16,0</iva>
