@@ -11,7 +11,7 @@
         </empresa>
         <pedido>
             <fecha>10-01-2005</fecha>
-            <pedido>nº 731</pedido>
+            <pedidonum>nº 731</pedidonum>
             <formapago>Efectivo</formapago>
         </pedido>
         <cliente numcliente="879">
