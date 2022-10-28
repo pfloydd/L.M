@@ -8,7 +8,7 @@ h1{
     width: 25%;
 }
 
-.dere > p{
+.dere{
     float: left;
     width: 75%;
     text-align: justify;
@@ -16,6 +16,6 @@ h1{
 
 .columnas > p{
     float: left;
-    width: 33%;
-    text-align: justify;
+    width: 25%;
+    margin: 5px;
 }
