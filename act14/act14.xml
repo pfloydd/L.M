@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arboles>
+    <arbol nombrecientifico="Acer monspessulanum">
+        <nombrecomun>Arce de Montpellier, Arce menor</nombrecomun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 6 a 10 metros</altura>
+        <forma_estructura>Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</forma_estructura>
+        <colorprimavera>Haz verde brillante, envés verde blanquecino</colorprimavera>
+        <resistenciaheladas>Heladas fuertes (hasta -15ºC)</resistenciaheladas>
+    </arbol>
+    <arbol nombrecientifico="Olea europea">
+        <nombrecomun>Olivo</nombrecomun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>De 8 a 15 metros</altura>
+        <forma_estructura>Copa irregular. Tronco principal irregular con bifurcaciones. Ramaje tortuoso</forma_estructura>
+        <colorprimavera>Haz verde oscuro, envés verde plateado</colorprimavera>
+        <reistenciaheladas>Heladas medias (hasta -10ºC)</reistenciaheladas>
+    </arbol>
+    <arbol nombrecientifico="Platanus orientalis">
+        <nombrecomun>Plátano</nombrecomun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 20 a 25 metros</altura>
+        <forma_estructura>Copa ovoidal. Tronco principal recto. Ramaje expandido</forma_estructura>
+        <colorpirmavera>Haz verde medio, enves verde claro</colorpirmavera>
+        <colorotoño>Ocre</colorotoño>
+        <reistenciaheladas>Heladas fuertes (hasta -20ºC)</reistenciaheladas>
+    </arbol>
+    <arbol nombrecientifico="Quercus ilex">
+        <nombrecomun>Encina</nombrecomun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>En torno a 25 metros</altura>
+        <forma_estructura>Copa esférica o elíptica irregular. Tronco principal recto. Ramaje tortuoso</forma_estructura>
+        <colorprimavera>Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado</colorprimavera>
+        <resistenciaheladas>Heladas fuertes (hasta -15ºC)</resistenciaheladas>
+    </arbol>
+</arboles>
