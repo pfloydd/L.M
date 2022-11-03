@@ -4,7 +4,7 @@
         <titulo>Still got the blues</titulo>
         <artista>Gary Moore</artista>
         <pais>UK</pais>
-        <discografia>Virgin Records</discografia>
+        <compañia>Virgin Records</compañia>
         <precio>10.20</precio>
         <publicacion>1990</publicacion>
     </cd>
@@ -12,7 +12,7 @@
         <titulo>One night only</titulo>
         <artista>Bee Gees</artista>
         <pais>UK</pais>
-        <discografia>Polydor</discografia>
+        <compañia>Polydor</compañia>
         <precio>10.90</precio>
         <publicacion>1998</publicacion>
     </cd>
@@ -20,7 +20,7 @@
         <titulo>When a man loves a woman</titulo>
         <artista>Percy Sledge</artista>
         <pais>USA</pais>
-        <discografia>Atlantic</discografia>
+        <compañia>Atlantic</compañia>
         <precio>8.70</precio>
         <publicacion>1987</publicacion>
     </cd>
@@ -28,7 +28,7 @@
         <titulo>Big Willie Style</titulo>
         <artista>Will Smith</artista>
         <pais>USA</pais>
-        <discografia>Columbia</discografia>
+        <compañia>Columbia</compañia>
         <precio>9.90</precio>
         <publicacion>1997</publicacion>
     </cd>
@@ -36,7 +36,7 @@
         <titulo>La canción de Juan Perro</titulo>
         <artista>Radio Futura</artista>
         <pais>España</pais>
-        <discografia>Sony Music-Ariola</discografia>
+        <compañia>Sony Music-Ariola</compañia>
         <precio>9.90</precio>
         <publicacion>1987</publicacion>
     </cd>
@@ -44,7 +44,7 @@
         <titulo>The dock of the bay</titulo>
         <artista>Otis Redding</artista>
         <pais>USA</pais>
-        <discografia>Atlantic</discografia>
+        <compañia>Atlantic</compañia>
         <precio>7.90</precio>
         <publicacion>1987</publicacion>
     </cd>
