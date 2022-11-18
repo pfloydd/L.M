@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="docu.dtd" type="application/xml-dtd"?>
+<?xml-model href="file.dtd" type="application/xml-dtd"?>
 <lista_de_notas>
     <nota>
     <para>Pedro</para>
