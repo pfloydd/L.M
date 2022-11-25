@@ -14,7 +14,7 @@
         <altura>De 8 a 15 metros</altura>
         <forma_estructura>Copa irregular. Tronco principal irregular con bifurcaciones. Ramaje tortuoso</forma_estructura>
         <colorprimavera>Haz verde oscuro, envés verde plateado</colorprimavera>
-        <reistenciaheladas>Heladas medias (hasta -10ºC)</reistenciaheladas>
+        <resistenciaheladas>Heladas medias (hasta -10ºC)</resistenciaheladas>
     </arbol>
     <arbol nombrecientifico="Platanus orientalis">
         <nombrecomun>Plátano</nombrecomun>
@@ -23,7 +23,7 @@
         <forma_estructura>Copa ovoidal. Tronco principal recto. Ramaje expandido</forma_estructura>
         <colorprimavera>Haz verde medio, enves verde claro</colorprimavera>
         <colorotoño>Ocre</colorotoño>
-        <reistenciaheladas>Heladas fuertes (hasta -20ºC)</reistenciaheladas>
+        <resistenciaheladas>Heladas fuertes (hasta -20ºC)</resistenciaheladas>
     </arbol>
     <arbol nombrecientifico="Quercus ilex">
         <nombrecomun>Encina</nombrecomun>
