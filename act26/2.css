@@ -1,0 +1,27 @@
+header {
+
+    text-align: center;
+    margin: 20px;
+    padding: 5px;
+}
+
+header > h3 {
+    text-align: justify;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 20;
+    text-align: center;
+    background-color: azure;
+  }
+
+  img {
+
+    text-align: center;
+  }
+
+
+  
+ 

@@ -6,14 +6,16 @@ xmlns:dcterms="http://purl.org/dc/terms/"
 xmlns:atom="http://www.w3.org/2005/Atom" 
 xmlns:media="http://search.yahoo.com/mrss/">
     
-<html>
+<xsl:template match="/">
     <html>
         <head>
+            <link rel="stylesheet" href="2.css"></link>
           <title>H</title>
         </head>
         <body>
           <header>
             <h1><xsl:value-of select="rss/channel/title"/></h1>
+            <h3><xsl:value-of select="rss/channel/description"/></h3>
           </header>
           <main>
             <xsl:for-each select="rss/channel/item">
@@ -21,7 +23,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
                 <h3><xsl:value-of select="title"/></h3>
                 <xsl:for-each select="media:content">
 
-                <img src="{@url}" alt="{media:dscription}" style="max-height:420px max-width:800px"></img>
+                <img src="{@url}" alt="{media:description}" style="max-height:420px; max-width:800px"></img>
 
                 </xsl:for-each>
                 <p><xsl:value-of select="pubDate"/></p>
@@ -32,7 +34,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
             </xsl:for-each>
           </main>
         </body>
-        </html>
+
 </html>
-    
+</xsl:template>
 </xsl:stylesheet>
