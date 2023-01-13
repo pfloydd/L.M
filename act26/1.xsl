@@ -10,7 +10,7 @@ xmlns:media="http://search.yahoo.com/mrss/">
     <html>
         <head>
             <link rel="stylesheet" href="2.css"></link>
-          <title>H</title>
+          <title>Periódico</title>
         </head>
         <body>
           <header>
