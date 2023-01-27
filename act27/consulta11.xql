@@ -1,7 +1,7 @@
 <html>
 <body>
     <h1>Listado de libros</h1>
-    <table border=1>
+    <table border="1">
         <tr>
             <th>Título</th>
             <th>Editorial</th>
