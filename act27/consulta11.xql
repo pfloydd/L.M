@@ -6,14 +6,14 @@
             <th>Título</th>
             <th>Editorial</th>
             <th>precio</th>
-        </tr>
-        {
+        </tr>{
         for $x in doc("biblioteca.xml")/bib/libro
+        order by $x
         return 
         <tr>
-            <td>{data($x/titulo)}</td>
-            <td>{data($x/editorial)}</td>
-            <td>{data($x/precio)}</td>
+            <td>{$x/titulo}</td>
+            <td>{$x/editorial}</td>
+            <td>{$x/precio}</td>
         </tr>
         }
     </table>
