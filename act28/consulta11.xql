@@ -6,4 +6,5 @@ return
     <titulo>{(data($x/title))}</titulo>
     <precio>{(data($x/price))}</precio>
     <precioiva>{(data($precioiva))}</precioiva>
+    
 </libro>
