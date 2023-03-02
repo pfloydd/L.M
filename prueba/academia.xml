@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="output.xsl" type="text/xsl"?>
+
+<academia>
+    <baile nombre="Ballet">
+        <precio>20.99</precio>
+        <plazas>20</plazas>
+        <fecha>
+            <fechainicio>20/9</fechainicio>
+            <fechafin>29/6</fechafin>
+        </fecha>
+        <diassem>5</diassem>
+        <profesor>Raquel</profesor>
+        <sala>1</sala>
+    </baile>
+
+    <baile nombre="Pop">
+        <precio>23.99</precio>
+        <plazas>19</plazas>
+        <fecha>
+            <fechainicio>23/9</fechainicio>
+            <fechafin>19/6</fechafin>
+        </fecha>
+        <diassem>4</diassem>
+        <profesor>Raquel</profesor>
+        <sala>1</sala>
+    </baile>
+
+    <baile nombre="Jazz">
+        <precio>18.99</precio>
+        <plazas>4</plazas>
+        <fecha>
+            <fechainicio>2/9</fechainicio>
+            <fechafin>9/6</fechafin>
+        </fecha>
+        <diassem>6</diassem>
+        <profesor>Fany</profesor>
+        <sala>2</sala>
+    </baile>
+
+    <baile nombre="Swing">
+        <precio>8.99</precio>
+        <plazas>13</plazas>
+        <fecha>
+            <fechainicio>11/9</fechainicio>
+            <fechafin>12/6</fechafin>
+        </fecha>
+        <diassem>3</diassem>
+        <profesor>Fany</profesor>
+        <sala>2</sala>
+    </baile>
+
+    <baile nombre="Contemp">
+        <precio>32.99</precio>
+        <plazas>12</plazas>
+        <fecha>
+            <fechainicio>29/9</fechainicio>
+            <fechafin>3/6</fechafin>
+        </fecha>
+        <diassem>5</diassem>
+        <profesor>Carol</profesor>
+        <sala>3</sala>
+    </baile>
+
+        <baile nombre="Urban">
+            <precio>23.99</precio>
+            <plazas>2</plazas>
+            <fecha>
+                <fechainicio>11/11</fechainicio>
+                <fechafin>1/7</fechafin>
+            </fecha>
+            <diassem>1</diassem>
+            <profesor>Carol</profesor>
+            <sala>3</sala>
+        </baile>
+</academia>
