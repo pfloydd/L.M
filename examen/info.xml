@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="docu.xsl" type="text/xsl"?>
+
+<consulta>
+    <servicio>
+        <tipo>Fisioterapia</tipo>
+        <precios>
+            <precio tipo="1 sesión">35€/hora1</precio>
+            <precio tipo="5 sesiones">160€</precio>
+            <precio tipo="10 sesiones">300€</precio>
+        </precios>
+        <plaza>Reserva previa</plaza>
+        <horario diassemana="De lunes a viernes">
+            <dia nombre="Lunes">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Martes">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Miércoles">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Jueves">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Viernes">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+        </horario>
+        <empleados>
+            <empleado>Chus</empleado>
+            <empleado>Marga</empleado>
+            <empleado>Silvia</empleado>
+        </empleados>
+    </servicio>
+
+    <servicio>
+        <tipo>Podología</tipo>
+        <precios>
+            <precio tipo="1 sesión">25€/hora1</precio>
+            <precio tipo="5 sesiones">100€</precio>
+            <precio tipo="10 sesiones">190€</precio>
+        </precios>
+        <plaza>Reserva previa</plaza>
+        <horario diassemana="De lunes a viernes">>
+            <dia nombre="Lunes">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Martes">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Miércoles">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Jueves">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Viernes">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+        </horario>
+        <empleados>
+            <empleado>Joana</empleado>
+        </empleados>
+    </servicio>
+
+    <servicio>
+        <tipo>Psicología</tipo>
+        <precios>
+            <precio tipo="1 sesión">50€/hora1</precio>
+            <precio tipo="5 sesiones">220€</precio>
+            <precio tipo="10 sesiones">400€</precio>
+        </precios>
+        <plaza>Reserva previa</plaza>
+        <horario diassemana="De lunes a viernes">
+            <dia nombre="Lunes">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Martes">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Miércoles">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Jueves">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+            <dia nombre="Viernes">
+                <hora1>9:00-13:00</hora1>
+                <hora2>15:00-19:00</hora2>
+            </dia>
+        </horario>
+        <empleados>
+            <empleado>Chus</empleado>
+            <empleado>Marga</empleado>
+            <empleado>Silvia</empleado>
+        </empleados>
+    </servicio>
+
+    <servicio>
+        <tipo>Yoga</tipo>
+        <precios>
+            <precio tipo="Mensual">25€/mes</precio>
+        </precios>
+        <plaza>20 personas</plaza>
+        <horario diassemana="Lunes, miércoles y viernes">
+            <dia nombre="Lunes">
+                <hora1>11:00-12:30</hora1>
+                <hora2>16:00-18:30</hora2>
+            </dia>
+            <dia nombre="Miércoles">
+                <hora1>11:00-12:30</hora1>
+                <hora2>16:00-18:30</hora2>
+            </dia>
+            <dia nombre="Viernes">
+                <hora1>11:00-12:30</hora1>
+                <hora2>17:00-18:30</hora2>
+            </dia>
+        </horario>
+        <empleados>
+            <empleado>Biel</empleado>
+            <empleado>Alex</empleado>
+        </empleados>
+    </servicio>
+
+    <servicio>
+        <tipo>Pilates</tipo>
+        <precios>
+            <precio tipo="Mensual">30€/mes</precio>
+        </precios>
+        <plaza>25 personas</plaza>
+        <horario diassemana="Martes, jueves y viernes">
+            <dia nombre="Martes">
+                <hora1>10:00-11:30</hora1>
+                <hora2>16:00-17:30</hora2>
+            </dia>
+            <dia nombre="Jueves">
+                <hora1>10:00-11:30</hora1>
+                <hora2>16:00-17:30</hora2>
+            </dia>
+            <dia nombre="Viernes">
+                <hora1>10:00-11:30</hora1>
+                <hora2>16:00-17:30</hora2>
+            </dia>
+        </horario>
+        <empleados>
+            <empleado>Tolo</empleado>
+        </empleados>
+    </servicio>
+
+    <servicio>
+        <tipo>Meditación</tipo>
+        <precios>
+            <precio tipo="Mensual">35€/mes</precio>
+        </precios>
+        <plaza>10 personas</plaza>
+        <horario diassemana="De lunes a viernes">
+            <dia nombre="Lunes">
+                <hora1>10:00-11:00</hora1>
+                <hora1>19:00-20:00</hora1>
+            </dia>
+            <dia nombre="Martes">
+                <hora1>10:00-11:00</hora1>
+                <hora2>19:00-20:00</hora2>
+            </dia>
+            <dia nombre="Miércoles">
+                <hora1>10:00-11:00</hora1>
+                <hora2>19:00-20:00</hora2>
+            </dia>
+            <dia nombre="Jueves">
+                <hora1>10:00-11:00</hora1>
+                <hora2>19:00-20:00</hora2>
+            </dia>
+            <dia nombre="Viernes">
+                <hora1>10:00-11:00</hora1>
+                <hora2>19:00-20:00</hora2>
+            </dia>
+        </horario>
+        <empleados>
+            <empleado>Biel</empleado>
+            <empleado>Alex</empleado>
+        </empleados>
+    </servicio>
+</consulta>
